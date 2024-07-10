@@ -10,7 +10,6 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 @Entity
-
 public class Board {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)

@@ -13,7 +13,6 @@ import org.hibernate.annotations.OnDeleteAction;
 @NoArgsConstructor
 @AllArgsConstructor
 @Entity
-
 public class Comment {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Id

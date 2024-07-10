@@ -15,8 +15,6 @@ import java.util.List;
 
 @RequiredArgsConstructor
 @Service
-
-
 public class BoardService {
 
     private final BoardRepo boardRepo;

@@ -15,7 +15,6 @@ import java.util.List;
 
 @RequiredArgsConstructor
 @Service
-
 public class CommentService {
 
     private final CommentRepo commentRepo;
