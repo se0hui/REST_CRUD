@@ -29,8 +29,7 @@ spring :
     pathmatch:
       matching-strategy: ant_path_matcher
 
-  thymeleaf:
-    prefix: classpath:/templates/
+
 
   jpa:
     open-in-view: false
