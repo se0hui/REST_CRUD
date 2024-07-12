@@ -1,8 +1,5 @@
 package com.back.guestboard.domain.comment.controller;
 
-
-import com.back.guestboard.domain.comment.dto.CommentDto;
-import com.back.guestboard.domain.user.entity.User;
 import com.back.guestboard.domain.user.repository.UserRepo;
 import com.back.guestboard.global.response.Response;
 import com.back.guestboard.domain.comment.service.CommentService;
